@@ -1,0 +1,9 @@
+*.log
+*.tmp
+*.exe
+*.user
+x86/
+x64/
+Debug/
+.vscode/
+
